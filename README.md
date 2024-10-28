@@ -147,14 +147,6 @@ sbatch ./a2_slurm_job.sh
    - Coalesced access patterns
    - Minimized global memory operations
 
-## 🎯 Future Improvements
-
-- [ ] Implement shared memory optimizations
-- [ ] Add support for larger signature databases
-- [ ] Optimize for different GPU architectures
-- [ ] Implement dynamic kernel configuration
-- [ ] Add support for pattern matching algorithms
-
 ## 🛠️ Technical Specifications
 
 - **GPU**: NVIDIA A100 80GB
